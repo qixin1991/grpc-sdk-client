@@ -7,8 +7,8 @@ gRPC cluster client with load banlance (RR) for nodejs.
 
 Two steps use this sdk.
 
-- 1. init the sdk.
-- 2. just invoke the `exec()` function.
+- 1.init the sdk.
+- 2.just invoke the `exec()` function.
 
 Here is the example code:
 
