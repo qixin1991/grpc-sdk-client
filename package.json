@@ -1,6 +1,6 @@
 {
   "name": "grpc-sdk-client",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "gRPC cluster client with load banlance (RR) for nodejs.",
   "main": "./lib/resolver.js",
   "scripts": {
