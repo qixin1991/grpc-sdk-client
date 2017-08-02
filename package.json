@@ -1,8 +1,8 @@
 {
   "name": "grpc-sdk-client",
-  "version": "2.0.3",
+  "version": "1.5.0",
   "description": "gRPC cluster client with load banlance (RR) for nodejs.",
-  "main": "./lib/resolver.js",
+  "main": "./lib/cluster.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/qixin1991/grpc-sdk-client#readme",
   "dependencies": {
-    "etcd3": "^0.2.3",
     "grpc": "^1.4.1"
   }
 }
